@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Arina\\OP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{715E32BC-E610-20F3-A6E5-57DBDCA29545}|Assembly-CSharp.csproj|c:\\users\\arina\\op\\assets\\scripts\\shoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715E32BC-E610-20F3-A6E5-57DBDCA29545}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\shoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{715E32BC-E610-20F3-A6E5-57DBDCA29545}|Assembly-CSharp.csproj|c:\\users\\arina\\op\\assets\\scripts\\pool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{715E32BC-E610-20F3-A6E5-57DBDCA29545}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pool.cs",
+              "DocumentMoniker": "C:\\Users\\Arina\\OP\\Assets\\scripts\\Pool.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Pool.cs",
+              "ToolTip": "C:\\Users\\Arina\\OP\\Assets\\scripts\\Pool.cs",
+              "RelativeToolTip": "Assets\\scripts\\Pool.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwDgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T03:59:14.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Shoot.cs",
+              "DocumentMoniker": "C:\\Users\\Arina\\OP\\Assets\\scripts\\Shoot.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Shoot.cs",
+              "ToolTip": "C:\\Users\\Arina\\OP\\Assets\\scripts\\Shoot.cs",
+              "RelativeToolTip": "Assets\\scripts\\Shoot.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wBsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T03:55:11.39Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
